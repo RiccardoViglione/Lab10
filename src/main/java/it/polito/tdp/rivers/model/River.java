@@ -1,3 +1,5 @@
+
+
 package it.polito.tdp.rivers.model;
 
 import java.util.ArrayList;
